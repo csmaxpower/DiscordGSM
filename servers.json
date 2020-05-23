@@ -2,7 +2,7 @@
     {
         "type": "GamedigQuery",
         "game": "wolfensteinet",
-        "addr": "108.61.236.22",
+        "addr": "et.randharris.org",
         "port": 27960,
         "channel": 713596241639899187,
         "custom": "Connect using /connect et.randharris.org; password moestavern"
