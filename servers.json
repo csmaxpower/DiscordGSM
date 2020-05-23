@@ -1,0 +1,26 @@
+[
+    {
+        "type": "GamedigQuery",
+        "game": "wolfensteinet",
+        "addr": "108.61.236.22",
+        "port": 27960,
+        "channel": 713596241639899187,
+        "custom": "Connect using /connect et.randharris.org; password moestavern"
+    },
+    {
+      "type": "GamedigQuery",
+      "game": "wolfensteinet",
+      "addr": "hc.clan-fa.com",
+      "port": 27960,
+      "channel": 713596241639899187,
+      "custom": "F|A Hardcore"
+    },
+    {
+      "type": "GamedigQuery",
+      "game": "wolfensteinet",
+      "addr": "s1.clan-fa.com",
+      "port": 27960,
+      "channel": 713596241639899187,
+      "custom": "F|A Silent #1"
+    }
+]
