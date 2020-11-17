@@ -2,7 +2,7 @@
     {
         "type": "GamedigQuery",
         "game": "wolfensteinet",
-        "addr": "66.55.142.16",
+        "addr": "east.moestavern.pub",
         "port": 27960,
         "channel": 713596241639899187,
         "custom": "Connect to the server using: */connect east.moestavern.pub; password goodluck*"
@@ -10,7 +10,7 @@
     {
       "type": "GamedigQuery",
       "game": "wolfensteinet",
-      "addr": "108.61.100.223",
+      "addr": "midwest.moestavern.pub",
       "port": 27960,
       "channel": 713596241639899187,
       "custom": "Connect to the server using: */connect midwest.moestavern.pub; password goodluck*"
@@ -18,7 +18,7 @@
     {
       "type": "GamedigQuery",
       "game": "wolfensteinet",
-      "addr": "68.232.160.108",
+      "addr": "south.moestavern.pub",
       "port": 27960,
       "channel": 713596241639899187,
       "custom": "Connect to the server using: */connect south.moestavern.pub; password goodluck*"
