@@ -22,13 +22,5 @@
     "port": 27960,
     "channel": 713596241639899187,
     "custom": "Connect to the server using: */connect south.moestavern.pub; password goodluck*"
-  },
-  {
-    "type": "GamedigQuery",
-    "game": "wolfensteinet",
-    "addr": "etpub.moestavern.pub",
-    "port": 27960,
-    "channel": 713596241639899187,
-    "custom": "Connect to the server using: */connect etpub.moestavern.pub; password moestavern*"
   }
 ]
