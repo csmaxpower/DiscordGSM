@@ -5,7 +5,7 @@
         "addr": "east.moestavern.pub",
         "port": 27960,
         "channel": 713596241639899187,
-        "custom": "Connect to the server using: */connect east.moestavern.pub; password goodluck*"
+        "custom": "Connect using: */connect east.moestavern.pub; password goodluck*"
     },
     {
       "type": "GamedigQuery",
@@ -13,7 +13,7 @@
       "addr": "midwest.moestavern.pub",
       "port": 27960,
       "channel": 713596241639899187,
-      "custom": "Connect to the server using: */connect midwest.moestavern.pub; password goodluck*"
+      "custom": "Connect using: */connect midwest.moestavern.pub; password goodluck*"
     },
     {
       "type": "GamedigQuery",
@@ -21,14 +21,14 @@
       "addr": "south.moestavern.pub",
       "port": 27960,
       "channel": 713596241639899187,
-      "custom": "Connect to the server using: */connect south.moestavern.pub; password goodluck*"
+      "custom": "Connect using: */connect south.moestavern.pub; password goodluck*"
     },
     {
       "type": "GamedigQuery",
       "game": "wolfensteinet",
-      "addr": "108.61.236.22",
+      "addr": "etpub.moestavern.pub",
       "port": 27960,
       "channel": 713596241639899187,
-      "custom": "Connect to the server using: */connect etpub.moestavern.pub; password moestavern*"
+      "custom": "Connect using: */connect etpub.moestavern.pub; password moestavern*"
     }
 ]

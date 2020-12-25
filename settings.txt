@@ -1,0 +1,3 @@
+DGSM_TOKEN   NzEzNTg2MTg1OTU5ODk5MTQ4.XsiVFQ.wkrWADkdd_zjPJG-eyUwrwwEChc
+
+SERVERS_JSON_URL http://moestavern.clanservers.com/downloads/servers.json
