@@ -1,34 +1,82 @@
 [
+  {
+        "type": "GamedigQuery",
+        "game": "wolfensteinet",
+        "addr": "nl.moestavern.pub",
+        "port": 27960,
+        "channel": 713596241639899187,
+        "image_url": "https://moestavern.pub/images/Wolfenstein_Enemy_Territory_logo_small.png",
+        "custom": "Connect using: */connect nl.moestavern.pub; password goodluck*",
+        "country": "NL"
+  },
+  {
+        "type": "GamedigQuery",
+        "game": "wolfensteinet",
+        "addr": "de.moestavern.pub",
+        "port": 27960,
+        "channel": 713596241639899187,
+        "image_url": "https://moestavern.pub/images/Wolfenstein_Enemy_Territory_logo_small.png",
+        "custom": "Connect using: */connect de.moestavern.pub; password goodluck*",
+        "country": "DE"
+  },
+  {
+        "type": "GamedigQuery",
+        "game": "wolfensteinet",
+        "addr": "uk.moestavern.pub",
+        "port": 27960,
+        "channel": 713596241639899187,
+        "image_url": "https://moestavern.pub/images/Wolfenstein_Enemy_Territory_logo_small.png",
+        "custom": "Connect using: */connect uk.moestavern.pub; password goodluck*",
+        "country": "UK"
+  },
+  {
+        "type": "GamedigQuery",
+        "game": "wolfensteinet",
+        "addr": "ny.moestavern.pub",
+        "port": 27960,
+        "channel": 713596241639899187,
+        "image_url": "https://moestavern.pub/images/Wolfenstein_Enemy_Territory_logo_small.png",
+        "custom": "Connect using: */connect ny.moestavern.pub; password goodluck*",
+        "country": "US"
+   },
+   {
+         "type": "GamedigQuery",
+         "game": "wolfensteinet",
+         "addr": "atl.moestavern.pub",
+         "port": 27960,
+         "channel": 713596241639899187,
+         "image_url": "https://moestavern.pub/images/Wolfenstein_Enemy_Territory_logo_small.png",
+         "custom": "Connect using: */connect atl.moestavern.pub; password goodluck*",
+         "country": "US"
+    },
+    {
+        "type": "GamedigQuery",
+        "game": "wolfensteinet",
+        "addr": "la.moestavern.pub",
+        "port": 27960,
+        "channel": 713596241639899187,
+        "image_url": "https://moestavern.pub/images/Wolfenstein_Enemy_Territory_logo_small.png",
+        "custom": "Connect using: */connect la.moestavern.pub; password goodluck*",
+        "country": "US"
+    },
     {
         "type": "GamedigQuery",
         "game": "wolfensteinet",
         "addr": "east.moestavern.pub",
         "port": 27960,
         "channel": 713596241639899187,
-        "custom": "Connect using: */connect east.moestavern.pub; password goodluck*"
+        "image_url": "https://moestavern.pub/images/Wolfenstein_Enemy_Territory_logo_small.png",
+        "custom": "Connect using: */connect east.moestavern.pub; password goodluck*",
+        "country": "US"
     },
     {
-      "type": "GamedigQuery",
-      "game": "wolfensteinet",
-      "addr": "midwest.moestavern.pub",
-      "port": 27960,
-      "channel": 713596241639899187,
-      "custom": "Connect using: */connect midwest.moestavern.pub; password goodluck*"
-    },
-    {
-      "type": "GamedigQuery",
-      "game": "wolfensteinet",
-      "addr": "south.moestavern.pub",
-      "port": 27960,
-      "channel": 713596241639899187,
-      "custom": "Connect using: */connect south.moestavern.pub; password goodluck*"
-    },
-    {
-      "type": "GamedigQuery",
-      "game": "wolfensteinet",
-      "addr": "etpub.moestavern.pub",
-      "port": 27960,
-      "channel": 713596241639899187,
-      "custom": "Connect using: */connect etpub.moestavern.pub; password moestavern*"
+        "type": "GamedigQuery",
+        "game": "wolfensteinet",
+        "addr": "legacy.moestavern.pub",
+        "port": 27960,
+        "channel": 713596241639899187,
+        "image_url": "https://moestavern.pub/images/Wolfenstein_Enemy_Territory_logo_small.png",
+        "custom": "Connect using: */connect legacy.moestavern.pub*",
+        "country": "US"
     }
 ]
